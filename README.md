@@ -1,3 +1,3 @@
 # 🧑‍💻 Olá, eu sou Renilson Fernandes!  
 
-<p> testando a situação </p>
+<p> Estudante de Sistemas de Informação e ascendente na carreira de Desenvolvedor Junior, na web, popularmente conhecido como Renezao. </p>
