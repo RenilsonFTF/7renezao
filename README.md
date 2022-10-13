@@ -21,7 +21,7 @@ Atualmente aprimorando meus conhecimentos na área de Desenvolvimento de Softwar
 ##   <img align="right" alt="KanedaGIF" style="border-radius:50px;" src="https://i.imgur.com/wMZueUW.gif">
 
 
-### Focando os estudos em:  
+### 📚 Focando os estudos em:  
 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
@@ -31,7 +31,7 @@ Atualmente aprimorando meus conhecimentos na área de Desenvolvimento de Softwar
 
 
 
-### Conhecimento nas linguagens:
+### 💡 Conhecimento nas linguagens:
 
 <div style="display: inline_block"><br>
   <a href="https://www.w3schools.com/html/" rel="followHTML"> 
