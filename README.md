@@ -18,7 +18,7 @@
 Atualmente aprimorando meus conhecimentos na área de Desenvolvimento de Software/Web, buscando absorver todo tipo de conteúdo relacionado.</p>
 
 
-##   <img align="right" alt="Kakashi Gif" style="border-radius:50px;" src="https://i.imgur.com/wMZueUW.gif">
+##   <img align="right" alt="KanedaGIF" style="border-radius:50px;" src="https://i.imgur.com/wMZueUW.gif">
 
 
 ### Focando os estudos em:  
