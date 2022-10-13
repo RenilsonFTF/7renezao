@@ -1,8 +1,9 @@
 # 🧑‍💻 Olá, eu sou Renilson Fernandes!  
 
 <p> Estudante de Sistemas de Informação e ascendente na carreira de Desenvolvedor Junior. <br> Na web, sou popularmente conhecido como Renezao. <br>
-Atualmente aprimorando meus conhecimentos na área de Desenvolvimento, buscando absorver todo tipo de conteúdo relacionado.</p>
+Atualmente aprimorando meus conhecimentos na área de Desenvolvimento de Software/Web, buscando absorver todo tipo de conteúdo relacionado.</p>
 <p> Atualmente aprimorando meus conhecimentos na área de Desenvolvimento, buscando absorver todo tipo de conteúdo relacionado. </p>
+
 ##
 
 <div style="display: inline_block"><br>
