@@ -13,7 +13,7 @@
 
 ##
 
-<p> Estudante de Sistemas de Informação e ascendente na carreira de Desenvolvedor, 22 anos. <br> Na web conhecido também por Renezao em referência ao apelido "Renê" herdado por meus amigos mais próximos. <br>
+<p> Estudante de Sistemas de Informação e ascendente na carreira de Desenvolvedor, 24 anos. <br> Na web conhecido também por Renezao em referência ao apelido "Renê" herdado por meus amigos mais próximos. <br>
 Atualmente aprimorando meus conhecimentos em técnologias relacionadas à Java e TypeScript, visando sempre o desenvolvimento em back-end, mas sempre buscando aprender um pouco mais das diversas áreas de desenvolvimento.</p>
 
 
